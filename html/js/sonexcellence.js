@@ -1,6 +1,7 @@
 /**
  *** @Author Son Excellence WADE 
- * Function file-validator()
+ * File sonexcellence.js
+ * 
  **/ 
 jQuery(function($) {
     "use strict";

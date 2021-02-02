@@ -1,6 +1,6 @@
 /**
  *** @Author Son Excellence WADE 
- * Function file-validator()
+ * File file-validator.js
  **/ 
 
 (function ($) {
