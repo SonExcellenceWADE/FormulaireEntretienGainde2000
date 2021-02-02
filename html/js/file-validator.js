@@ -1,4 +1,7 @@
-/*  @Author Son Excellence WADE */
+/**
+ *** @Author Son Excellence WADE 
+ * Function file-validator()
+ **/ 
 
 (function ($) {
     "use strict";
